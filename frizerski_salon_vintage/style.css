@@ -1,0 +1,100 @@
+body {
+background-image: url(img/slika2.jpg);
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+
+}
+
+.container {
+  position: relative;
+  width: 80%;
+  margin-left: 10%;
+  background-color: #c9871c;
+}
+
+
+.navigacija {
+  background-color: #a56600;
+  justify-content: right;
+}
+
+.slika {
+  position: absolute;
+  width: auto;
+}
+
+.logo {
+
+  position: relative;
+  width: 20%;
+  margin-top: -60px;
+  margin-left: 1%;
+
+  padding: 1%;
+}
+
+
+.galerija {
+  background-color:#a56600;
+  padding: 2%;
+}
+
+
+.kartice {
+  background-color:#a56600;
+  border: 0;
+  padding: 2%;
+}
+
+.kartice2 {
+  background-color: #c9871c;
+}
+
+
+.upitnik {
+  float:left;
+  padding:0px 20px;
+
+}
+
+
+.form{
+  float:left;
+}
+
+
+.tabl {
+  float:right;
+
+}
+
+
+.faq {
+background-color:#a56600;
+}
+
+.faq1 {
+background-color: #c9871c;
+}
+
+
+.footer {
+padding: 3%;
+}
+
+.footer-left {
+  float: left;
+  margin-left: 15px;
+  width: auto;
+}
+
+.footer-center {
+  margin-left: 25%;
+
+}
+
+.footer-right {
+
+}
